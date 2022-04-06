@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "white idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "white left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "white down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "white up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "white right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/g2k",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "g2k",
+	"flip_x": true,
+	"healthbar_colors": [
+		218,
+		228,
+		255
+	],
+	"camera_position": [
+		220,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

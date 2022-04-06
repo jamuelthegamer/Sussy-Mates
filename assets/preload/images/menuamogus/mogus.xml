@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mogus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cyan idle0000" x="5" y="5" width="279" height="519"/>
+	<SubTexture name="unknown idle0000" x="289" y="5" width="279" height="359"/>
+</TextureAtlas>

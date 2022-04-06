@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits idle0000" x="5" y="5" width="114" height="114"/>
+	<SubTexture name="credits sel0000" x="124" y="5" width="114" height="114"/>
+	<SubTexture name="freeplay sel0000" x="243" y="5" width="331" height="167" frameX="-15" frameY="0" frameWidth="331" frameHeight="167"/>
+	<SubTexture name="freeplay idle0000" x="579" y="5" width="331" height="167" frameX="-15" frameY="0" frameWidth="331" frameHeight="167"/>
+	<SubTexture name="options idle0000" x="5" y="177" width="114" height="114"/>
+	<SubTexture name="options sel0000" x="124" y="177" width="114" height="114"/>
+	<SubTexture name="story_mode idle0000" x="243" y="177" width="380" height="193" frameX="-25" frameY="0" frameWidth="380" frameHeight="193"/>
+	<SubTexture name="story_mode sel0000" x="628" y="177" width="380" height="193" frameX="-25" frameY="0" frameWidth="380" frameHeight="193"/>
+</TextureAtlas>

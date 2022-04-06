@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "orangecrewmate idle"
+		},
+		{
+			"offsets": [
+				171,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "orangecrewmate left"
+		},
+		{
+			"offsets": [
+				171,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "orangecrewmate right"
+		},
+		{
+			"offsets": [
+				43,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "orangecrewmate up"
+		},
+		{
+			"offsets": [
+				171,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "orangecrewmate down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/orangecrewmate",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "orange",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		-150,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

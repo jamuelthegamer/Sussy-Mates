@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Red-Hat.png"><SubTexture name="Red-Hat Idle0000" x="111" y="0" width="136" height="163" frameX="0" frameY="0" frameWidth="136" frameHeight="163" />
+<SubTexture name="Red-Hat Idle0001" x="358" y="0" width="121" height="157" frameX="0" frameY="0" frameWidth="121" frameHeight="157" />
+<SubTexture name="Red-Hat Idle0002" x="358" y="157" width="120" height="157" frameX="0" frameY="0" frameWidth="120" frameHeight="157" />
+<SubTexture name="Red-Hat Idle0003" x="0" y="166" width="126" height="161" frameX="0" frameY="0" frameWidth="126" frameHeight="161" />
+<SubTexture name="Red-Hat Idle0004" x="0" y="166" width="126" height="161" frameX="0" frameY="0" frameWidth="126" frameHeight="161" />
+<SubTexture name="Red-Hat Left0000" x="0" y="327" width="127" height="155" frameX="0" frameY="0" frameWidth="127" frameHeight="155" />
+<SubTexture name="Red-Hat Left0001" x="479" y="155" width="116" height="154" frameX="0" frameY="0" frameWidth="116" frameHeight="154" />
+<SubTexture name="Red-Hat Right0000" x="423" y="327" width="171" height="152" frameX="0" frameY="0" frameWidth="171" frameHeight="152" />
+<SubTexture name="Red-Hat Right0001" x="423" y="327" width="171" height="152" frameX="0" frameY="0" frameWidth="171" frameHeight="152" />
+<SubTexture name="Red-Hat Up0000" x="247" y="0" width="111" height="163" frameX="0" frameY="0" frameWidth="111" frameHeight="163" />
+<SubTexture name="Red-Hat Up0001" x="0" y="0" width="111" height="166" frameX="0" frameY="0" frameWidth="111" frameHeight="166" />
+<SubTexture name="Red-Hat Down0000" x="126" y="166" width="129" height="160" frameX="0" frameY="0" frameWidth="129" frameHeight="160" />
+<SubTexture name="Red-Hat Down0001" x="293" y="327" width="130" height="155" frameX="0" frameY="0" frameWidth="130" frameHeight="155" />
+</TextureAtlas>

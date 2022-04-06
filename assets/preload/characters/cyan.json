@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6,
+				8
+			],
+			"name": "cyan dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				10,
+				12,
+				14,
+				16
+			],
+			"name": "cyan dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-183,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cyan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cyan right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cyan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cyan up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyan",
+	"position": [
+		-290,
+		265
+	],
+	"healthicon": "cyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		164,
+		195
+	],
+	"camera_position": [
+		140,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

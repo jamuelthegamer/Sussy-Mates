@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="orangecrewmate.png">
+<SubTexture name="orangecrewmate idle0000" x="0" y="1419" width="529" height="419" frameX="-324" frameY="-210" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate idle0001" x="1645" y="0" width="526" height="420" frameX="-325" frameY="-209" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate idle0002" x="1645" y="420" width="526" height="419" frameX="-325" frameY="-210" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate idle0003" x="1049" y="994" width="524" height="422" frameX="-326" frameY="-207" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate idle0004" x="0" y="994" width="525" height="425" frameX="-324" frameY="-204" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate idle0005" x="525" y="994" width="524" height="425" frameX="-324" frameY="-204" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0000" x="1363" y="2242" width="485" height="386" frameX="-328" frameY="-323" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0001" x="1448" y="1838" width="485" height="388" frameX="-328" frameY="-321" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0002" x="962" y="1838" width="486" height="391" frameX="-328" frameY="-318" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0003" x="476" y="1838" width="486" height="392" frameX="-328" frameY="-317" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0004" x="476" y="1838" width="486" height="392" frameX="-328" frameY="-317" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate down0005" x="1848" y="2242" width="488" height="386" frameX="-328" frameY="-323" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0000" x="1933" y="1838" width="680" height="388" frameX="-103" frameY="-331" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0001" x="0" y="2242" width="681" height="388" frameX="-102" frameY="-331" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0002" x="681" y="2242" width="682" height="387" frameX="-101" frameY="-331" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0003" x="2643" y="0" width="684" height="385" frameX="-100" frameY="-331" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0004" x="0" y="2630" width="687" height="380" frameX="-97" frameY="-332" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate left0005" x="687" y="2630" width="688" height="380" frameX="-96" frameY="-332" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0000" x="0" y="1838" width="476" height="404" frameX="-330" frameY="-306" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0001" x="529" y="1419" width="476" height="406" frameX="-328" frameY="-304" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0002" x="1645" y="839" width="477" height="408" frameX="-327" frameY="-302" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0003" x="1005" y="1419" width="474" height="405" frameX="-327" frameY="-305" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0004" x="1479" y="1419" width="473" height="405" frameX="-326" frameY="-304" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate right0005" x="2171" y="0" width="472" height="405" frameX="-326" frameY="-304" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0000" x="1094" y="0" width="551" height="495" frameX="-65" frameY="-111" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0001" x="545" y="0" width="549" height="497" frameX="-65" frameY="-111" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0002" x="1094" y="495" width="549" height="495" frameX="-65" frameY="-113" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0003" x="0" y="498" width="548" height="496" frameX="-65" frameY="-112" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0004" x="548" y="498" width="546" height="496" frameX="-66" frameY="-112" frameWidth="965" frameHeight="734" />
+<SubTexture name="orangecrewmate up0005" x="0" y="0" width="545" height="498" frameX="-65" frameY="-110" frameWidth="965" frameHeight="734" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+{
+	"difficulties": "suspicious",
+	"songs": [
+		["Who killed Noob69", "yfrg2k", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Who killed Noob69?",
+	"weekBefore": null,
+	"weekName": "Who killed Noob69?",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
